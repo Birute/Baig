@@ -1,0 +1,25 @@
+body{
+  background-color: black;
+}
+.img-fluid2{
+  max-width: 116%;
+  height: auto;
+}
+.img-fluid3{
+  max-width: 92%;
+  height: auto;
+  margin: auto;
+}
+.img-fluid4{
+  max-width: 100%;
+  height: auto;
+  margin: auto;
+}
+.img-fluid5{
+  max-width: 110%;
+  height: auto;
+  margin: auto;
+}
+button{
+  background-color: red;
+}

@@ -1,0 +1,39 @@
+.container {
+  height: 200px;
+  width: 275px;
+  border: 1px solid black;
+  float: left;
+  padding: 25px;
+  margin: 10px;
+}
+.perziureti {
+  height: 25px;
+  width: 100px;
+  margin-left: 25px;
+  background-color: #d5ef97;
+}
+.gaminti {
+  height: 25px;
+  width: 100px;
+  margin-left: 25px;
+  background-color: #97c7ef;
+}
+.btn-info2 {
+  color: red;
+  background-color: #17a2b8;
+  border-color: #17a2b8; }
+  .btn-info2:hover {
+    color: #fff;
+    background-color: #138496;
+    border-color: #117a8b; }
+  .btn-info2:focus, .btn-info2.focus {
+    -webkit-box-shadow: 0 0 0 3px rgba(23, 162, 184, 0.5);
+    box-shadow: 0 0 0 3px rgba(23, 162, 184, 0.5); }
+  .btn-info2.disabled, .btn-info2:disabled {
+    background-color: #17a2b8;
+    border-color: #17a2b8; }
+  .btn-info2:active, .btn-info2.active,
+  .show > .btn-info2.dropdown-toggle {
+    background-color: #138496;
+    background-image: none;
+    border-color: #117a8b; }
